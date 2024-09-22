@@ -24,6 +24,8 @@ The following terminal commands work for Mac OS. Please try to find the same wor
 2. Erosion: `python morphological_image_processing/erosion.py`
 ![alt text](morphological_image_processing/erosion.png)
 3. Opening: `python morphological_image_processing/opening.py`
-![alt text](image.png)
+![alt text](morphological_image_processing/opening.png)
+4. Closing: `python morphological_image_processing/closing.py`
+![alt text](morphological_image_processing/closing.png)
 5. Difference: `python morphological_image_processing/difference.py`
 ![alt text](morphological_image_processing/difference.png)
