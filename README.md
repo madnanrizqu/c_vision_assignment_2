@@ -19,7 +19,9 @@ The following terminal commands work for Mac OS. Please try to find the same wor
 
 #### Morphological Image Processing
 
-1. Dilated: `python morphological_image_processing/dilated.py`
-![alt text](morphological_image_processing/dilated.png)
-2. Difference: `python morphological_image_processing/difference.py`
+1. Dilation: `python morphological_image_processing/dilation.py`
+![alt text](morphological_image_processing/dilation.png)
+2. Erosion: `python morphological_image_processing/erosion.py`
+![alt text](morphological_image_processing/erosion.png)
+3. Difference: `python morphological_image_processing/difference.py`
 ![alt text](morphological_image_processing/difference.png)
