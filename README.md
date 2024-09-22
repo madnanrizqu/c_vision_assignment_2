@@ -17,5 +17,9 @@ The following terminal commands work for Mac OS. Please try to find the same wor
 
 ### Image operations
 
-1. Difference: `python morphological_image_processing/difference.py`
+#### Morphological Image Processing
+
+1. Dilated: `python morphological_image_processing/dilated.py`
+![alt text](morphological_image_processing/dilated.png)
+2. Difference: `python morphological_image_processing/difference.py`
 ![alt text](morphological_image_processing/difference.png)
