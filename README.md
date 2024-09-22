@@ -18,3 +18,4 @@ The following terminal commands work for Mac OS. Please try to find the same wor
 ### Image operations
 
 1. Difference: `python morphological_image_processing/difference.py`
+![alt text](morphological_image_processing/difference.png)
